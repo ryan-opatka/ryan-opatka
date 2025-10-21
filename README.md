@@ -11,7 +11,7 @@ I did not set out to be an engineer. I just kept trying to fix things.
 That instinct has since led me to **CCMC Advanced Technologies**, where I serve as **Executive Software Engineer and Product Lead**.  
 I lead a small, cross-functional team building intelligent forecasting systems that bridge rigorous AI research with practical, production-ready software.  
 
-I care deeply about building good products—tools that are meaningful, maintainable, and grounded in vision. Every day, I focus on aligning people, process, and technology toward a shared goal: creating systems that last, learn, and actually help.
+I care deeply about building good products. Tools that are meaningful, maintainable, and grounded in vision. Every day, I focus on aligning people, process, and technology toward a shared goal: creating systems that last, learn, and actually help.
 
 ---
 
@@ -27,7 +27,7 @@ I care deeply about building good products—tools that are meaningful, maintain
 
 ### 🌱 What I’m Working On
 
-- ⚙️ Leading the development of **Prometheus**, a forecasting and analytics platform powered by reservoir computing. I guide product vision, oversee system architecture, and collaborate with data scientists and engineers to bring complex models into production.
+- ⚙️ Leading the development of **Prometheus**, a forecasting and analytics platform powered by patent-pending statistics and machine learning techniques. I guide product vision, oversee system architecture, and collaborate with data scientists and engineers to bring complex models into production.
 - 🧭 Refining internal infrastructure at CCMC to improve our pipelines, documentation, and DevOps so experimentation and deployment stay frictionless.
 - 🌐 Developing **my personal site**, a modular portfolio and playground to showcase my projects, document experiments, and explore new frameworks.
 - 🧠 Continuing to deepen my understanding of **machine learning**, reinforcement learning, and the infrastructure that makes modern AI work.
@@ -82,7 +82,7 @@ If what we are building does not move us, why are we building it at all?
 ### 🫀 Who I Am
 
 I am a team builder and systems thinker.  
-I love watching people light up with ownership—when an idea becomes ours, not mine.
+I love watching people light up with ownership;when an idea becomes ours, not mine.
 
 At CCMC, I lead a small engineering team focused on building forecasting and analytics systems from the ground up.  
 We move fast, document everything, and collaborate openly. I focus on clarity, momentum, and making sure every contributor feels trusted and valued.
