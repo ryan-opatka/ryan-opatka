@@ -8,87 +8,85 @@
 
 I did not set out to be an engineer. I just kept trying to fix things.
 
-That instinct has since led me to **CCMC Advanced Technologies**, where I serve as **Executive Software Engineer and Product Lead**.  
-I lead a small, cross-functional team building intelligent forecasting systems that bridge rigorous AI research with practical, production-ready software.  
+That instinct led me into engineering leadership roles where I have built and led small, cross-functional teams delivering intelligent, production-grade software systems.  
+I operate at the intersection of **engineering execution, product thinking, and team leadership**, with a strong bias toward clarity, durability, and real-world usefulness.
 
-I care deeply about building good products. Tools that are meaningful, maintainable, and grounded in vision. Every day, I focus on aligning people, process, and technology toward a shared goal: creating systems that last, learn, and actually help.
+I care deeply about building good products. Tools that are meaningful, maintainable, and designed to survive beyond their first release. Every day, I focus on aligning people, process, and technology toward a shared goal: shipping systems that last, learn, and actually help.
 
 ---
 
 ### 🔧 What I Build
 
-- 🧠 Thoughtful tools powered by AI and machine learning, not gimmicks. I care about solving real problems with systems that are accurate, testable, and built to serve real users.
-- 🧭 Team-driven architectures that are easy to onboard, easy to debug, and built for collective ownership.
-- 🧩 Systems that hold up under pressure. Reliable, maintainable, and transparent so others can build on them with confidence.
-- 🌐 Full-stack web apps across modern stacks (React, Next.js, Tailwind, Firebase, and more), transforming complex workflows into elegant, intuitive interfaces.
-- 🧪 Experiments that pull me in and make me curious again. I love exploring ideas that do not yet have a name, only a question.
+- 🧠 Pragmatic AI- and ML-powered tools focused on correctness, testability, and measurable value. No gimmicks.
+- 🧭 Team-oriented architectures that are easy to onboard, easy to debug, and designed for shared ownership.
+- 🧩 Systems that hold up under pressure. Reliable, observable, and maintainable so others can extend them with confidence.
+- 🌐 Full-stack web applications across modern stacks (React, Next.js, Tailwind, Firebase, and more), translating complex workflows into clean, intuitive interfaces.
+- 🧪 Experiments driven by curiosity. I enjoy exploring problems before they are well-defined and turning ambiguity into structure.
 
 ---
 
 ### 🌱 What I’m Working On
 
-- ⚙️ Leading the development of **Prometheus**, a forecasting and analytics platform powered by patent-pending statistics and machine learning techniques. I guide product vision, oversee system architecture, and collaborate with data scientists and engineers to bring complex models into production.
-- 🧭 Refining internal infrastructure at CCMC to improve our pipelines, documentation, and DevOps so experimentation and deployment stay frictionless.
-- 🌐 Developing **my personal site**, a modular portfolio and playground to showcase my projects, document experiments, and explore new frameworks.
-- 🧠 Continuing to deepen my understanding of **machine learning**, reinforcement learning, and the infrastructure that makes modern AI work.
-- 🦾 Training in **Muay Thai**, running regularly, and refining discipline in both body and mind. Engineering focus, literally.
-- 🧪 Constantly experimenting with code, with process, and with self. I believe iteration, reflection, and curiosity are the only sustainable way forward.
+- ⚙️ Leading the development of forecasting and analytics platforms built on advanced statistical and machine learning techniques. I guide product vision, oversee system architecture, and work closely with engineers and data scientists to bring complex models into production.
+- 🧭 Refining internal engineering infrastructure to improve pipelines, documentation quality, and DevOps workflows so experimentation and deployment stay fast and predictable.
+- 🌐 Developing **my personal site**, a modular portfolio and technical playground to showcase projects, document experiments, and explore new frameworks.
+- 🧠 Continuing to deepen my understanding of **machine learning**, reinforcement learning, and the infrastructure that supports modern AI systems.
+- 🦾 Training in **Muay Thai**, running regularly, and applying discipline across both physical and technical domains.
+- 🧪 Iterating constantly on code, process, and self. I believe reflection and iteration are prerequisites for long-term effectiveness.
 
 ---
 
 ### 🧬 Why I Build
 
 I build because I cannot not.  
-Because something in me breaks when I see broken systems failing people who deserve better.
+Because broken systems frustrate me, especially when they fail people who deserve better tools.
 
-Technology is not inherently good, but with intention, clarity, and care, it can be used to build things that are.
+Technology is not inherently good. It becomes useful only when built with intention, clarity, and care.
 
-Working alongside a mission-aligned team has deepened this conviction.  
-I have seen how trust, structure, and shared ownership turn ambitious ideas into real impact.
+Working closely with motivated teams has reinforced this belief.  
+Trust, structure, and shared ownership are what turn ambitious ideas into real impact.
 
 My dad invented toys for a living. He believed in joy, connection, and designing for others.  
-I am trying to do the same, just with different tools.
+I aim to apply that same mindset to software.
 
 ---
 
 ### 🛡️ Leadership Philosophy
 
-I believe leadership is power held beneath the surface, expressed through empathy, clarity, and shared purpose.
+I believe leadership is influence expressed quietly through clarity, empathy, and consistency.
 
-Good leadership is not about ego or control. It is about setting direction, removing friction, and helping people move toward their best work together.  
+Good leadership is not about control. It is about setting direction, removing friction, and creating conditions where people can do their best work.  
 
-I have learned that clarity is compassion. The more structure and visibility you create, the freer your team becomes to experiment and grow.
+Clarity is compassion. Strong structure and visibility give teams freedom to move fast without fear.
 
-When I lead, I want people to feel confident and curious, to feel the momentum of shared progress.  
-I invest in people, in trust, and in building systems where excellence is not demanded but inspired.
+When I lead, I want people to feel confident, curious, and supported.  
+I invest in people, trust, and systems where excellence emerges naturally from good process.
 
 ---
 
 ### 🎯 How I Approach Building
 
-Before you build, you have to dream vividly.  
-If you cannot see what perfect could look like, you are not ready to start.
+Before building, I spend time defining what “excellent” actually looks like.  
+If the target is unclear, execution will be noisy.
 
-I believe in spending time upfront to understand users, map possibilities, and set a clear, ambitious vision.  
-We have enough "good enough" in the world. I want to build things that make people care.
+I believe in understanding users, mapping constraints, and setting an ambitious but grounded vision early.  
+The world has enough “good enough.” I aim for work that earns attention and respect.
 
-Products should have soul.  
-Art, creativity, and human experience are not extras. They are what make technology worth using.
-
-If what we are building does not move us, why are we building it at all?
+Products should feel intentional.  
+Human experience, clarity, and craft are not extras. They are the difference between usable and forgettable.
 
 ---
 
 ### 🫀 Who I Am
 
-I am a team builder and systems thinker.  
-I love watching people light up with ownership;when an idea becomes ours, not mine.
+I am a systems thinker and team builder.  
+I value shared ownership and enjoy watching teams gain confidence as ideas become collective.
 
-At CCMC, I lead a small engineering team focused on building forecasting and analytics systems from the ground up.  
-We move fast, document everything, and collaborate openly. I focus on clarity, momentum, and making sure every contributor feels trusted and valued.
+I have led small engineering teams building forecasting and analytics systems from the ground up.  
+We moved quickly, documented aggressively, and collaborated openly. My focus was always momentum without chaos.
 
-When something breaks, I do not panic. I trace it. I fix it. I write a test. I document it.  
-That is the kind of culture I build: calm, thoughtful, and relentlessly improving.
+When something breaks, I stay calm. I trace it. I fix it. I write tests. I document decisions.  
+That is the culture I build: steady, thoughtful, and continuously improving.
 
 ---
 
@@ -122,7 +120,6 @@ That is the kind of culture I build: calm, thoughtful, and relentlessly improvin
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-05122A?style=flat&logo=scikitlearn)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)
-![ReservoirPy](https://img.shields.io/badge/-ReservoirPy-05122A?style=flat)
 
 **Hardware and Embedded Systems:**  
 - CAD (Computer-Aided Design)  
@@ -137,17 +134,17 @@ That is the kind of culture I build: calm, thoughtful, and relentlessly improvin
 
 ### 🗺️ What I Want
 
-Right now: to keep leading great people, to build systems that combine clarity, speed, and purpose.  
+Right now: to keep leading strong teams and building systems that combine clarity, speed, and purpose.  
 To ship meaningful software, not noise.
 
-Long term: to lead the development of something enduring.  
-Something that reaches people, changes their habits, and stays with them.
+Long term: to help create something enduring.  
+Software that influences how people think, decide, and work.
 
-I want to build tools that restore agency, encourage reflection, and make people’s lives genuinely better.  
-Not because it is trendy.  
-Because it is needed.
+I want to build tools that restore agency, encourage reflection, and genuinely improve daily life.  
+Not because it is fashionable.  
+Because it matters.
 
-The dream is big. The code is small. But the direction is clear.
+The ambition is large. The work is incremental. The direction is deliberate.
 
 ---
 
@@ -161,6 +158,6 @@ The dream is big. The code is small. But the direction is clear.
 
 ### 🕰️ GitHub History
 
-This repository is part of my ongoing effort to consolidate my work into a cohesive portfolio.  
-Much of my current work lives in private repositories under CCMC Advanced Technologies,  
-but I continue to share open projects and experiments here, built with the same rigor, clarity, and imagination I bring to everything I do.
+This repository is part of my effort to consolidate my work into a cohesive, reviewable portfolio.  
+Some projects live in private repositories,  
+but the public work here reflects the same standards I bring to every system I build: rigor, clarity, and care.
