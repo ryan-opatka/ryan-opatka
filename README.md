@@ -12,7 +12,7 @@ Northwestern CS grad (Dec 2024). I build production software, run ML experiments
 
 A full-stack chess analysis app built solo. React, Vite, Firebase.
 
-Progressive game review, streaming analysis, live badge population, Stats page built around real engine output. Custom game review pipeline, live UI state that updates as analysis runs, regression suite to keep core logic honest as the product grows.
+Progressive game review, streaming analysis, live badge population, Stats page built around real engine output. Custom game review pipeline, live UI state that updates as analysis runs, dev-facing regression suite to keep core logic honest as the product grows.
 
 ---
 
