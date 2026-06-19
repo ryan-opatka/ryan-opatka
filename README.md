@@ -8,7 +8,7 @@ Northwestern CS grad (Dec 2024). I build production software, run ML experiments
 
 ---
 
-### 🌐 ChessMog — [chessmog.com](https://chessmog.com)
+### 🌐 ChessMog - [chessmog.com](https://chessmog.com)
 
 A full-stack chess analysis app built solo. React, Vite, Firebase.
 
@@ -18,13 +18,13 @@ Progressive game review, streaming analysis, live badge population, Stats page b
 
 ### 🧪 Experience
 
-**Susco Solutions — Software Engineering Consultant** *(Jun–Sep 2023)*
+**Susco Solutions - Software Engineering Consultant** *(Jun–Sep 2023)*
 Production RAG pipeline on Azure (OpenAI, Cognitive Search, Blob Storage) for a 1,000+ employee client. Requirements gathering, stakeholder presentations, Agile delivery.
 
-**CCMC Advanced Technologies — Software & ML Engineer** *(Sep 2024–Dec 2025)*
+**CCMC Advanced Technologies - Software & ML Engineer** *(Sep 2024–Dec 2025)*
 ML experiments across 8 financial forecasting systems. Full pipeline: ingestion, feature engineering, hyperparameter tuning, evaluation. Scikit-learn, Python, production deployment.
 
-**Turbolearn AI — Frontend Developer** *(Jan–Feb 2025)*
+**Turbolearn AI - Frontend Developer** *(Jan–Feb 2025)*
 WYSIWYG markdown editor in React/Next.js for a 500,000+ user platform. Custom serialization for tables and math notation.
 
 **Northwestern Biomedical Engineering Lab** *(PI: Malcolm MacIver, May 2021–Mar 2022)*
