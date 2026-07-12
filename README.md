@@ -10,9 +10,9 @@ Northwestern CS grad (Dec 2024). I build production software, run ML experiments
 
 ### 🌐 ChessMog - [chessmog.com](https://chessmog.com)
 
-A full-stack chess analysis app built solo. React, Vite, Firebase.
+A full-stack chess analysis app built solo. React, Vite, Firebase, Vercel.
 
-Progressive game review, streaming analysis, live badge population, Stats page built around real engine output. Custom game review pipeline, live UI state that updates as analysis runs, dev-facing regression suite to keep core logic honest as the product grows.
+Progressive game review, streaming analysis, live badge population, Stats page built around real engine output. Custom game review pipeline, live UI state that updates as analysis runs, dev-facing regression & stats suites to keep core logic honest as the product grows.
 
 ---
 
@@ -21,7 +21,7 @@ Progressive game review, streaming analysis, live badge population, Stats page b
 **Susco Solutions - Software Engineering Consultant** *(Jun–Sep 2023)*
 Production RAG pipeline on Azure (OpenAI, Cognitive Search, Blob Storage) for a 1,000+ employee client. Requirements gathering, stakeholder presentations, Agile delivery.
 
-**CCMC Advanced Technologies - Software & ML Engineer** *(Sep 2024–Dec 2025)*
+**CCMC Advanced Technologies - Software & ML Engineer** *(Sep 2025–Dec 2025)*
 ML experiments across 8 financial forecasting systems. Full pipeline: ingestion, feature engineering, hyperparameter tuning, evaluation. Scikit-learn, Python, production deployment.
 
 **Turbolearn AI - Frontend Developer** *(Jan–Feb 2025)*
