@@ -1,59 +1,50 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&width=700&height=70&lines=Hi,+I'm+Ryan+O'Patka.;Engineer.+Builder." alt="Typing SVG" />
-</p>
+## Hi, I'm Ryan O'Patka
+
+Northwestern CS grad (Dec 2024). I build AI-driven applications in Python and JavaScript, run ML experiments, and ship things that work. Right now that mostly means ChessMog, or digging into a legacy codebase and making it better.
+
+📬 opatka.ryan@gmail.com · [LinkedIn](https://www.linkedin.com/in/opatka) · [chessmog.com](https://chessmog.com)
 
 ---
 
-Northwestern CS grad (Dec 2024). I build production software, run ML experiments, and ship things that work.
+### 🌐 ChessMog · [chessmog.com](https://chessmog.com)
 
----
+A full-stack chess analysis app I designed, built, and deployed solo. React, Vite, Vercel, with the Stockfish engine running client-side in the browser via WebAssembly, so analysis stays fast and free without a server bill.
 
-### 🌐 ChessMog - [chessmog.com](https://chessmog.com)
+- Streaming game review with a live eval bar that updates as the engine runs
+- Playstyle analytics built around real engine output across thousands of games
+- Chess.com API integration, with a PostgreSQL backend for persistent analysis storage
+- Dev-facing regression and stats suites that keep the core logic honest as the product grows
 
-A full-stack chess analysis app built solo. React, Vite, Firebase, Vercel.
-
-Progressive game review, streaming analysis, live badge population, Stats page built around real engine output. Custom game review pipeline, live UI state that updates as analysis runs, dev-facing regression & stats suites to keep core logic honest as the product grows.
+Try it, and use my username if you need one: `lopatka12`
 
 ---
 
 ### 🧪 Experience
 
-**Susco Solutions - Software Engineering Consultant** *(Jun–Sep 2023)*
-Production RAG pipeline on Azure (OpenAI, Cognitive Search, Blob Storage) for a 1,000+ employee client. Requirements gathering, stakeholder presentations, Agile delivery.
+**Susco Solutions** · Software Engineering Consultant · *Jun–Sep 2023*
+Built a production RAG pipeline on Azure (OpenAI, Cognitive Search, Blob Storage) for a 1,000+ employee client: chunking, embeddings, vector retrieval, and grounded, citable answers. Requirements gathering, stakeholder demos, Agile delivery.
 
-**CCMC Advanced Technologies - Software & ML Engineer** *(Sep 2025–Dec 2025)*
-ML experiments across 8 financial forecasting systems. Full pipeline: ingestion, feature engineering, hyperparameter tuning, evaluation. Scikit-learn, Python, production deployment.
+**CCMC Advanced Technologies** · Software & ML Engineer · *Aug–Dec 2025*
+ML experiments across 8 financial forecasting systems. Owned the full pipeline: ingestion, feature engineering, hyperparameter tuning, and evaluation. Rebuilt fragile experiment tooling into something reliable and caught real bugs in a math-heavy codebase. Python, scikit-learn.
 
-**Turbolearn AI - Frontend Developer** *(Jan–Feb 2025)*
-WYSIWYG markdown editor in React/Next.js for a 500,000+ user platform. Custom serialization for tables and math notation.
+**Turbolearn AI** · Frontend Developer · *Jan–Feb 2025*
+WYSIWYG editor in React/Next.js for a 500,000+ user platform. Custom serialization between a nested Slate.js tree and flat Markdown, handling tables, equations, and rich text with round-trip editability.
 
-**Northwestern Biomedical Engineering Lab** *(PI: Malcolm MacIver, May 2021–Mar 2022)*
-Closed-loop RL system in C++/Python for real-time predator-prey experiments. 30+ trials. Presented at NUIN conference.
+**Northwestern Biomedical Engineering Lab** · PI: Malcolm MacIver · *May 2021–Mar 2022*
+Closed-loop control system in C++/Python for real-time predator-prey experiments. 30+ trials. Presented at the NUIN conference.
 
-**Northwestern Neurobiology Lab** *(PI: Hojoon Lee, Jul–Sep 2020)*
-CNN in PyTorch/Keras for mouse facial expression classification. 98% accuracy on held-out data.
+**Northwestern Neurobiology Lab** · PI: Hojoon Lee · *Jul–Sep 2020*
+CNN in PyTorch/Keras for mouse facial-expression classification. 98% accuracy on held-out data.
 
 ---
 
 ### 🛠️ Stack
 
 **Languages:** Python · JavaScript/TypeScript · C++ · SQL
-
-**Frontend:** React · Next.js · Tailwind · Firebase · Vite
-
-**AI/ML:** PyTorch · TensorFlow · Keras · scikit-learn · OpenAI APIs · Azure OpenAI · RAG · NLP
-
-**Cloud:** Azure · Google Cloud · Firebase · Docker · Git · GitHub Actions
-
+**Frontend:** React · Next.js · Vite · Tailwind
+**AI/ML:** PyTorch · TensorFlow/Keras · scikit-learn · OpenAI APIs · Azure OpenAI · RAG
+**Cloud & Data:** Azure · GCP · Firebase · PostgreSQL · Docker · Git · GitHub Actions
 **Hardware:** Raspberry Pi · ESP32 · micro-soldering · CAD · 3D printing
-
----
-
-### 📬 Contact
-
-- opatka.ryan@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/opatka)
-- [chessmog.com](https://chessmog.com)
 
 ---
 
