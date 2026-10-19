@@ -1,6 +1,6 @@
 ## Hi, I'm Ryan O'Patka
 
-Northwestern CS grad (Dec 2024). I build AI-driven applications in Python and JavaScript, run ML experiments, and ship things that work. Right now that mostly means ChessMog, or digging into a legacy codebase and making it better.
+Northwestern CS grad (Dec 2024). I build full stack applications of all types. I build AI-driven applications in Python and JavaScript, run ML experiments, and ship things that work excellently. Right now that mostly means ChessMog, or digging into a legacy codebase and making it better. 
 
 📬 opatka.ryan@gmail.com · [LinkedIn](https://www.linkedin.com/in/opatka) · [chessmog.com](https://chessmog.com)
 
